@@ -8,7 +8,7 @@ Hello everyone,
 
 I am a researcher in web privacy at UPC in Barcelona, Spain. My public profile can be accessed at: [http://hiromipaw.github.io/](http://hiromipaw.github.io/).
 
-Recently I have been working on a study of how web site track user data and I would like to analyse lightbeam data of real user.
+Recently I have been working on a study of how web sites track user data and I would like to analyse lightbeam data of real users.
 
 Would you be willing to donate your lightbeamData.json exported from your browser?
 
